@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elton John Justaga
 - Code name: Dark Glitch
--  Im interested in Programming, Pentesting
+-  Im interested in Programming, Hacking
 -  Im currently Learning Hacking my favourite language I used is python, c++, java etc.
 
 <!---
