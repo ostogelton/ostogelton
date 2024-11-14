@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Elton John Justaga
-- Code name: Dark Glitch
--  Im interested in Programming, Hacking
--  Im currently Learning Hacking my favourite language I used is python, c++, java etc.
+
 
 <!---
 ostogelton/ostogelton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
